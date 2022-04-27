@@ -49,3 +49,8 @@ You can now run the server to access the API (still in the virtual environment) 
 (python3) manage.py runserver
 
 ```
+
+For instructions on how to use the API with postman refer to :
+```
+https://documenter.getpostman.com/view/20548393/UyrDDb42
+```
